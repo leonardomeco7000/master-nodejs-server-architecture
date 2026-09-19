@@ -1,7 +1,5 @@
 const modules = [
-    "crypto",
-    "log-nuovo",
-    "mail"
+    "crypto"
 ];
 
 function loadModules() {

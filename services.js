@@ -1,11 +1,5 @@
 const services = [
-    "heartbeat",
-    "shop",
-    "user",
-    "developer",
-    "mail",
-    "vehicles",
-    "command"
+    "user"
 ];
 
 function loadServices() {
